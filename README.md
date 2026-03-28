@@ -201,7 +201,3 @@ b_quantized = round(b * 127);   % 8-bit signed
 | Linear-phase (symmetric) FIR | Zero phase distortion in the passband |
 | ROM-based tones for testing | Deterministic signal source to verify filter before integrating DDS |
 
-
-## 📄 License
-
-Developed as a Digital System Design course project at Habib University. Implemented on Xilinx Basys-3 using Vivado.
